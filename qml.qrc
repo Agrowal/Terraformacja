@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>pictures/electricity.jpg</file>
+        <file>pictures/euro.jpg</file>
+        <file>pictures/grass.jpg</file>
+        <file>pictures/heat.jpg</file>
+        <file>pictures/iron.jpg</file>
+        <file>pictures/titanium.jpg</file>
+        <file>main.cpp</file>
+        <file>ResourceImage.qml</file>
+        <file>ResourceQuantity.qml</file>
+    </qresource>
+    <qresource prefix="/images"/>
+    <qresource prefix="/pictures"/>
+</RCC>
