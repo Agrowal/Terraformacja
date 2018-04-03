@@ -10,7 +10,7 @@ Rectangle{
     height: childrenRect.height
     width: childrenRect.width
     Text {
-        id: text1
+        id: text
         width: 125
         height: 40
         color: white
@@ -18,4 +18,5 @@ Rectangle{
         verticalAlignment: Text.AlignVCenter
         horizontalAlignment: Text.AlignHCenter
     }
+    property alias textId: text
 }

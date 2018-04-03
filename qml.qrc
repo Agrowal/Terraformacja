@@ -11,6 +11,7 @@
         <file>main.cpp</file>
         <file>ResourceImage.qml</file>
         <file>ResourceQuantity.qml</file>
+        <file>ResourceComponent.qml</file>
     </qresource>
     <qresource prefix="/images"/>
     <qresource prefix="/pictures"/>
